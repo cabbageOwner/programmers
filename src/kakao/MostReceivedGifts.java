@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+//2024 KAKAO WINTER INTERNSHIP 가장 많이 받은 선물
 public class MostReceivedGifts {
     public static void main(String[] args) {
         int solution = solution(new String[]{"muzi", "ryan", "frodo", "neo"}, new String[]{"muzi frodo", "muzi frodo", "ryan muzi", "ryan muzi", "ryan muzi", "frodo muzi", "frodo ryan", "neo muzi"});
